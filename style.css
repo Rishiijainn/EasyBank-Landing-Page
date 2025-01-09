@@ -1,0 +1,104 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.box{
+    color: darkgrey;
+    border-color: whitesmoke;
+    height: 70px;
+      border: 2px solid whitesmoke;
+}
+nav{
+    margin-top: 10px;
+    word-spacing: 20px;
+    display: flex;
+    justify-content: center;
+}
+.green{ 
+    border-radius: 65px;
+    border: 1px solid transparent;
+    color: white;
+    background-color: hsl(136, 65%, 51%);
+    padding: 14px;
+}
+.second pre{
+    margin: 75px;
+    font-size: 47px;
+}
+.second span pre{
+    margin-top: -107px;
+    margin-left: 106px;
+    font-size: 12px;
+    color: gray;
+}
+.moock{
+    margin-bottom: 44px;
+    margin-top: -524px;
+    margin-left: 1018px;
+    width: 431px;
+    padding: 2px;
+}
+
+.blue{
+    margin-bottom: 127px;
+    margin-top: -518px;
+    margin-left: 943px;
+    width: 522px;
+}
+.third{
+    background-color: hsl(0, 0%, 98%);
+  
+    
+    display: grid;
+    border: 1px solid transparent;
+}
+.third span{
+    margin: 104px;
+
+}
+.fourth{
+    margin-top: -161px;
+    font-size: 15px;
+   color: grey;
+    margin-left: 18px;
+    padding: -14px;
+    /* width: 23px; */
+    /* margin: -2px; */
+    /* justify-content: right; */
+    display: inline-flex;
+}
+.fifth{
+    margin: 56px;
+}
+.six{
+   display: inline-flex;
+   font-size: 15px;
+   color: grey;
+}
+
+.abc{
+    justify-content: center;
+     display: flex;
+    height: 250px;
+    border: 2px solid ;
+    background-color: hsl(233, 26%, 24%);
+}
+
+.eleven{
+    word-spacing: 5px;
+    margin-left: 158px;
+    margin-top: -45px;
+}
+.twelve pre{
+    font-size: 18px;
+    margin-top: -108px;
+    margin-left: 461px;
+    color: lightgrey;
+}
+.red {
+    border-radius: 65px;
+    border: 1px solid transparent;
+    color: white;
+    background-color: hsl(136, 65%, 51%);
+    padding: 14px;
+}
